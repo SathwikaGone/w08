@@ -14,5 +14,5 @@
         $('#showResult').html(response.body);
       });
     }
-  })($);
+  })(jQuery);
   
