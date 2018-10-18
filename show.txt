@@ -1,9 +1,9 @@
-I can't believe I got fired from the calendar factory. All I did was take a day off.
-
-I'd tell you a chemistry joke but I know I wouldn't get a reaction.
-
-I wasn't originally going to get a brain transplant, but then I changed my mind.
-
-My math teacher called me average. How mean!
-
-I wanted to buy a neutrino, but had to settle for a used one.
+<p>Introduction</p>
+I am from India.I am here to do my masters in Applied Computer Science for this fall 2018 in Northwest Missouri State University.I have done my under-graduation in Information Technology from Bhoj Reddy Engineering College for Women, Hyderabad. I am interested in learning new technologies.
+<p>Interests</p>
+I like traveling different places and explore their culture. I love playing outdoor games, listening music.
+<p>Skills</p>
+My technical skills are C language, Java, Web technologies, Microsoft office (word, power point, excel),Easily adaptable to any changes, Quick learner and Responsible, Organizing skills. Apart from these i am a Basketball player.
+<p>Contact</p>
+<p>Phone:+91 7036769888</p>
+Email: sathwika.lfa43@gmail.com
